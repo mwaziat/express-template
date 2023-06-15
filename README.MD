@@ -1,0 +1,9 @@
+/src
+  /routes
+    -index.ts
+    /example
+      -index.ts
+  /utils
+    /swagger
+      -index.ts
+  app.ts
